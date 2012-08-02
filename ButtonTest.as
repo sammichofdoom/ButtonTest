@@ -1,5 +1,5 @@
 /**
- * ...
+ * Basic test of left & right click support in TSW
  * @author Sammiches
  */
 import gfx.core.UIComponent;
